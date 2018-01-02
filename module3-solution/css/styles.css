@@ -1,0 +1,24 @@
+#bs-navbar-collapse ul {
+	background: lightblue;
+}
+
+#mainContent {
+	padding: 5px 35px;
+}
+
+#mainContent section{
+	background: lightgreen;
+}
+ul > li > a {
+	font-size: 23px;
+}
+
+#title {
+	font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  #mainContent {
+	padding: 5px 100px;
+	}
+}
